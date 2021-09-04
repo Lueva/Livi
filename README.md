@@ -1,3 +1,19 @@
+# Assignment
+
+Work done:
+
+Critical issues:
+
+- When the server is restarted, the services remain (DBMigration to be launched before running the app)
+- There is now the possibility to delete a service individually by clicking on the bin icon next to the URL name
+- It is now possible to name the services and the date is saved when a new service is created
+- The HTTP poller is now implemented
+
+Frontend/Web track:
+- There is a full create/update/delete functionality for services -> Possibility to add a new service, to update the service name and to delete a service
+- The results from the poller are refresh automatically
+
+
 # KRY code assignment
 
 One of our developers built a simple service poller.
